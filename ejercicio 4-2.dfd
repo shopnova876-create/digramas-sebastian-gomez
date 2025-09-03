@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+133
+ "Si un artculo costaria $80 y su precio se aumentaria vrevemente en 
+un 25%¿cuál será el nuevo precio del que adquiere el ariculo?"
+6
+2
+1
+a
+2
+80
+1
+b
+2
+25
+6
+3
+1
+b
+5
+b/100
+1
+w
+3
+a*b
+1
+x
+3
+w+a
+4
+1
+41
+"el nuevo precio del artículo será $100."
+1
